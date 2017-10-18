@@ -1,1 +1,1 @@
-# Authors Dawid Brylka, Mariusz Koziel
+# Authors: Dawid Brylka, Mariusz Koziel
